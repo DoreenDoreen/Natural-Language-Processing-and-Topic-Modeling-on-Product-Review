@@ -11,15 +11,20 @@ Step 2: Data preprocessing
         Tokenization, stemming, removing stop words and 
 Step 3: TF-IDF
         Extracted features by Term Frequency – Inverse Document Frequency
+        
 Step 4: Modeling Trainig 
-        Trained unsupervised machine learning models(K-means clustering and Latent Dirichlet Analysis), 
+        Trained unsupervised machine learning models(K-means clustering and Latent Dirichlet Analysis
+        
 Step 5: Result Visualization
         Identified latent topics and keywords for each cluster, visualized model training results using 2D and 4D graphs (WordCloud, 4D Scatterplot) 
 
 
+Wordcloud Result:
+
 ![NLP](https://github.com/user-attachments/assets/f4afaa56-11bf-428b-a8d0-7db1285d1236)
 
 
+4D Scatterplot: 
 ![NLP2](https://github.com/user-attachments/assets/e97c3f2a-b9c1-415b-872d-1a93e9a79bcd)
 
 
