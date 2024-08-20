@@ -32,9 +32,12 @@ Wordcloud:
 ![NLP](https://github.com/user-attachments/assets/f4afaa56-11bf-428b-a8d0-7db1285d1236)
 
 
+
+
 4D Scatterplot: 
 
 ![NLP2](https://github.com/user-attachments/assets/e97c3f2a-b9c1-415b-872d-1a93e9a79bcd)
+
 
 
 ### Business Recommendation:
