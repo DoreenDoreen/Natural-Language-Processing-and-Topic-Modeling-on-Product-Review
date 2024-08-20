@@ -9,14 +9,19 @@ In this project, I use unsupervised learning models to cluster unlabeled documen
 Step 1: Load Data
 
 Step 2: Data preprocessing 
-        Tokenization, stemming, removing stop words and 
+
+        Tokenization, stemming, removing stop words
+        
 Step 3: TF-IDF
+
         Extracted features by Term Frequency – Inverse Document Frequency
         
-Step 4: Modeling Trainig 
-        Trained unsupervised machine learning models(K-means clustering and Latent Dirichlet Analysis
+Step 4: Model Training 
+
+        Trained unsupervised machine learning models(K-means clustering and Latent Dirichlet Analysis) 
         
 Step 5: Result Visualization
+
         Identified latent topics and keywords for each cluster, visualized model training results using 2D and 4D graphs (WordCloud, 4D Scatterplot) 
 
 
