@@ -1,7 +1,20 @@
 # Natural-Language-Processing-and-Topic-Modeling-on-Product-Review
-This is an unsupervised learning project about analyzing customer product reviews
+
+The purpose of this project was to cluster customer reviews of watch products into groups and uncover latent semantic structures using Python programming.
 
 In this project, I use unsupervised learning models to cluster unlabeled documents into different groups, visualize the results and identify their latent topics/structures.
+
+
+Step 1: Load Data
+
+Step 2: Data preprocessing 
+        Tokenization, stemming, removing stop words and 
+Step 3: TF-IDF
+        Extracted features by Term Frequency – Inverse Document Frequency
+Step 4: Modeling Trainig 
+        Trained unsupervised machine learning models(K-means clustering and Latent Dirichlet Analysis), 
+Step 5: Result Visualization
+        Identified latent topics and keywords for each cluster, visualized model training results using 2D and 4D graphs (WordCloud, 4D Scatterplot) 
 
 
 ![NLP](https://github.com/user-attachments/assets/f4afaa56-11bf-428b-a8d0-7db1285d1236)
