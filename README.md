@@ -4,6 +4,7 @@ The purpose of this project was to cluster customer reviews of watch products in
 
 In this project, I use unsupervised learning models to cluster unlabeled documents into different groups, visualize the results and identify their latent topics/structures.
 
+### Project Overview:
 
 Step 1: Load Data
 
@@ -19,12 +20,15 @@ Step 5: Result Visualization
         Identified latent topics and keywords for each cluster, visualized model training results using 2D and 4D graphs (WordCloud, 4D Scatterplot) 
 
 
-Wordcloud Result:
+### Result:
+
+Wordcloud:
 
 ![NLP](https://github.com/user-attachments/assets/f4afaa56-11bf-428b-a8d0-7db1285d1236)
 
 
 4D Scatterplot: 
+
 ![NLP2](https://github.com/user-attachments/assets/e97c3f2a-b9c1-415b-872d-1a93e9a79bcd)
 
 
