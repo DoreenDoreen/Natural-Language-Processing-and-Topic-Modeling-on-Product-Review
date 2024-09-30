@@ -44,5 +44,5 @@ Wordcloud:
 
 ### Business Recommendation:
 1. The watch is good product, many customers like it!
-2. LDA cross-validation: Some custoemrs are couples, we can deliver targeted advertising on Valentine's Day
+2. LDA cross-validation: Some customers are couples, we can deliver targeted advertising on Valentine's Day
 3. Constructive instruction: Some customers feel disappointed, the quality of this watch product need to improve after a long-term use, we can provide after-purchase service to improve customer satisfaction
